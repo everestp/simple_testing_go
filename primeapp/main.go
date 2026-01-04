@@ -30,4 +30,3 @@ func isPrime(n int) (bool, string) {
 }
 
 
-fmt.Println
