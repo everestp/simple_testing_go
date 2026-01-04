@@ -28,3 +28,6 @@ func isPrime(n int) (bool, string) {
 	}
   return true, fmt.Sprintf("%d is  prime number !", n)
 }
+
+
+fmt.Println
